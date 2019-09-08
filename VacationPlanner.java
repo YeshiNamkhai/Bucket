@@ -50,6 +50,7 @@ public class VacationPlanner {
         System.out.println("If you are traveling for "+days+" days that is the same as "+hrs+" or "+mns+" minutes");
         System.out.println("If you are going to spend $"+money+" USD that means per day you can spend up to $"+moneyPerDay+" USD");
         System.out.println("Your total budget in "+curr+" is "+moneyLocal+" "+curr+", which per day is "+moneyLocalPerDay+" "+curr);
+        System.out.print("OK");
         stars(11);
         return new Object[]{days, money, curr, rate};
     }
