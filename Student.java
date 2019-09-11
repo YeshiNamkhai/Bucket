@@ -8,7 +8,7 @@ class Student {
         return true;
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Student x = new Student();
 
         x.id = 1000;
