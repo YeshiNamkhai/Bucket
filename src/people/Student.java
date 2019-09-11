@@ -1,3 +1,5 @@
+package src.people;
+
 class Student {
     int id;
     String name;

@@ -1,3 +1,5 @@
+package src.people;
+
 public class Person {
     
     String firstName;
