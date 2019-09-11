@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - VacationPlanner",
+            "request": "launch",
+            "mainClass": "src.people.VacationPlanner",
+            "projectName": "TravelPlanner_e6d34730"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VacationPlanner",
+            "request": "launch",
+            "mainClass": "src.vacation.VacationPlanner",
+            "projectName": "TravelPlanner_e6d34730"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Person",
             "request": "launch",
             "mainClass": "src.people.Person",

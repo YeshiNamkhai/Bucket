@@ -1,3 +1,5 @@
+package src.people;
+
 import java.util.Scanner;
 
 public class VacationPlanner {
@@ -6,9 +8,9 @@ public class VacationPlanner {
         //String info[] = intro();
         //Object data[] = budget();
 
-        //intro();
-        //budget();
-        //time();
+        intro();
+        budget();
+        time();
         distances();
     }
     
