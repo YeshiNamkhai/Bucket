@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "src.hello.Hello",
+            "projectName": "TravelPlanner_e6d34730"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "src.main.Main",
+            "projectName": "TravelPlanner_e6d34730"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "com.hello.hello",
+            "projectName": "TravelPlanner_e6d34730"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - com",
+            "request": "launch",
+            "mainClass": "com.hello.com",
+            "projectName": "TravelPlanner_e6d34730"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "com.hello.Hello",
+            "projectName": "TravelPlanner_e6d34730"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
             "mainClass": "com.Main",

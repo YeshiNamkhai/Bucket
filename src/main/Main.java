@@ -1,4 +1,4 @@
-package com.main;
+package src.main;
 
 class Main{
     /**
