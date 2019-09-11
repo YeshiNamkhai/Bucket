@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "src.hello.Hello"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - VacationPlanner",
             "request": "launch",
             "mainClass": "src.people.VacationPlanner",
