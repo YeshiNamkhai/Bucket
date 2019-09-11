@@ -1,3 +1,5 @@
+package com.main;
+
 class Main{
     /**
      * This is main method
