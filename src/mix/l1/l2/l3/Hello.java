@@ -11,7 +11,7 @@ class Hello {
 
         src.mix.l1.l2.Hello l2 = new src.mix.l1.l2.Hello();
         l2.run();
-        
+
         System.out.println("Hello from level 3!");
     }
 }
