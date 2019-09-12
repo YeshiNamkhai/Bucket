@@ -2,33 +2,81 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Main",
+            "name": "CodeLens (Launch) - HelloWorld",
             "request": "launch",
-            "mainClass": "src.main.Main"
+            "mainClass": "src.mix.HelloWorld"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - ImpExample",
+            "name": "CodeLens (Launch) - Hello3",
             "request": "launch",
-            "mainClass": "mix.ImpExample"
+            "mainClass": "src.mix.l1.l2.l3.Hello3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello2",
+            "request": "launch",
+            "mainClass": "src.mix.l1.l2.Hello2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello1",
+            "request": "launch",
+            "mainClass": "src.mix.l1.Hello1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "src.mix.l1.Hello"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "src.mix.l1.l2.Hello"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "src.mix.l1.l2.l3.Hello"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloL3",
+            "request": "launch",
+            "mainClass": "src.mix.l1.l2.l3.HelloL3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloL2",
+            "request": "launch",
+            "mainClass": "src.mix.l1.l2.HelloL2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloL1",
+            "request": "launch",
+            "mainClass": "src.mix.l1.HelloL1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloL2",
+            "request": "launch",
+            "mainClass": "src.mix.l1.l2.l3.HelloL2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - Hello",
             "request": "launch",
             "mainClass": "src.mix.Hello"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - ImportExample",
-            "request": "launch",
-            "mainClass": "mix.ImportExample"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - ImportExample",
-            "request": "launch",
-            "mainClass": "src.mix.ImportExample"
         }
     ]
 }

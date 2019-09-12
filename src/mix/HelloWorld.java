@@ -1,6 +1,6 @@
 package src.mix;
 
-class Hello{
+class HelloWorld{
     /**
      * Main class
      * @param args command line arguments
