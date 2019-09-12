@@ -2,127 +2,33 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Hello",
-            "request": "launch",
-            "mainClass": "src.hello.Hello"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - VacationPlanner",
-            "request": "launch",
-            "mainClass": "src.people.VacationPlanner",
-            "projectName": "TravelPlanner_e6d34730"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - VacationPlanner",
-            "request": "launch",
-            "mainClass": "src.vacation.VacationPlanner",
-            "projectName": "TravelPlanner_e6d34730"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Person",
-            "request": "launch",
-            "mainClass": "src.people.Person",
-            "projectName": "TravelPlanner_e6d34730"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Student",
-            "request": "launch",
-            "mainClass": "src.people.Student",
-            "projectName": "TravelPlanner_e6d34730"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Person",
-            "request": "launch",
-            "mainClass": "src.person.Person",
-            "projectName": "TravelPlanner_e6d34730"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Hello",
-            "request": "launch",
-            "mainClass": "src.hello.Hello",
-            "projectName": "TravelPlanner_e6d34730"
-        },
-        {
-            "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
-            "mainClass": "src.main.Main",
-            "projectName": "TravelPlanner_e6d34730"
+            "mainClass": "src.main.Main"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - hello",
+            "name": "CodeLens (Launch) - ImpExample",
             "request": "launch",
-            "mainClass": "com.hello.hello",
-            "projectName": "TravelPlanner_e6d34730"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - com",
-            "request": "launch",
-            "mainClass": "com.hello.com",
-            "projectName": "TravelPlanner_e6d34730"
+            "mainClass": "mix.ImpExample"
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - Hello",
             "request": "launch",
-            "mainClass": "com.hello.Hello",
-            "projectName": "TravelPlanner_e6d34730"
+            "mainClass": "src.mix.Hello"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Main",
+            "name": "CodeLens (Launch) - ImportExample",
             "request": "launch",
-            "mainClass": "com.Main",
-            "projectName": "TravelPlanner_e6d34730"
+            "mainClass": "mix.ImportExample"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Main",
+            "name": "CodeLens (Launch) - ImportExample",
             "request": "launch",
-            "mainClass": "Main",
-            "projectName": "TravelPlanner_e6d34730"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - main",
-            "request": "launch",
-            "mainClass": "main",
-            "projectName": "TravelPlanner_e6d34730"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Person",
-            "request": "launch",
-            "mainClass": "Person",
-            "projectName": "TravelPlanner_e6d34730"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Student",
-            "request": "launch",
-            "mainClass": "Student",
-            "projectName": "TravelPlanner_e6d34730"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - VacationPlanner",
-            "request": "launch",
-            "mainClass": "VacationPlanner",
-            "projectName": "TravelPlanner_e6d34730"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Hello",
-            "request": "launch",
-            "mainClass": "Hello"
+            "mainClass": "src.mix.ImportExample"
         }
     ]
 }

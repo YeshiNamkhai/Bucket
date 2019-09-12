@@ -1,6 +1,6 @@
-package src.hello;
+package src.mix;
 
-public class Hello{
+class Hello{
     /**
      * Main class
      * @param args command line arguments
