@@ -1,14 +1,19 @@
 package src.mix;
 
-import static java.lang.Math.*;
+import static java.lang.Math.PI;
+import static java.lang.Math.min;
+import static java.lang.System.out;
+import static src.mix.Config.*;
 
 public class StaticImportExample {
 
     public static void main(String[] args) {
         
     int min = min(5, 7);
-    System.out.println("min="+min);
-    System.out.println(Math.PI);
+    out.println("min="+min);
+    out.println(Math.PI);
+
+    printConfig();
     }
 }
 

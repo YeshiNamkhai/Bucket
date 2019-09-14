@@ -2,9 +2,9 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - StaticImportExample",
+            "name": "CodeLens (Launch) - CurrencyConverter",
             "request": "launch",
-            "mainClass": "src.mix.StaticImportExample"
+            "mainClass": "mix.CurrencyConverter"
         }
     ]
 }
