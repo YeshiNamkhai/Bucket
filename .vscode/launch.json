@@ -2,111 +2,15 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - VacationPlanner",
-            "request": "launch",
-            "mainClass": "src.people.VacationPlanner"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Student",
-            "request": "launch",
-            "mainClass": "src.people.Student"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Person",
-            "request": "launch",
-            "mainClass": "src.people.Person"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Hello",
-            "request": "launch",
-            "mainClass": "src.more.l1.Hello"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Hello",
-            "request": "launch",
-            "mainClass": "src.more.l1.l2.Hello"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Hello",
-            "request": "launch",
-            "mainClass": "src.more.l1.l2.l3.Hello"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Hello",
-            "request": "launch",
-            "mainClass": "src.mix.l1.l2.l3.Hello"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Hello",
-            "request": "launch",
-            "mainClass": "src.mix.l1.l2.Hello"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Hello",
-            "request": "launch",
-            "mainClass": "src.mix.l1.Hello"
-        },
-        {
-            "type": "java",
             "name": "CodeLens (Launch) - StaticImportExample",
             "request": "launch",
             "mainClass": "src.more.StaticImportExample"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - ImportExample",
-            "request": "launch",
-            "mainClass": "src.more.ImportExample"
-        },
-        {
-            "type": "java",
             "name": "CodeLens (Launch) - HelloWorld",
             "request": "launch",
             "mainClass": "src.more.HelloWorld"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - CurrencyConverter",
-            "request": "launch",
-            "mainClass": "mix.CurrencyConverter"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - CurrencyConverter",
-            "request": "launch",
-            "mainClass": "src.mix.CurrencyConverter"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - ImportExample",
-            "request": "launch",
-            "mainClass": "src.mix.ImportExample"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - HelloWorld",
-            "request": "launch",
-            "mainClass": "src.mix.HelloWorld"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - StaticImportExample",
-            "request": "launch",
-            "mainClass": "src.mix.StaticImportExample"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - CurrencyConverter",
-            "request": "launch",
-            "mainClass": "src.mix.CurrencyConverter"
         }
     ]
 }
