@@ -1,4 +1,4 @@
-package src.mix.l1.l2;
+package src.more.l1;
 
 public class Hello {
     /**
@@ -6,10 +6,11 @@ public class Hello {
      * @param args command line arguments
      */
     public static void run(){
-        System.out.println("Hello from level 2!");
+        System.out.println("Hello from level 1!");
     }
-    
+
     public static void main(String[] args){
         System.out.println("Hello World!");
     }
+
 }

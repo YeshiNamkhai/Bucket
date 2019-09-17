@@ -1,9 +1,9 @@
-package src.mix;
+package src.more;
 
 import static java.lang.Math.PI;
 import static java.lang.Math.min;
 import static java.lang.System.out;
-import static src.mix.Config.*;
+import static src.more.Config.*;
 
 public class StaticImportExample {
 

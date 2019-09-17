@@ -1,6 +1,6 @@
-package mix;
+package src.mix;
 
-public class CurrencyConverter {
+class CurrencyConverter {
 
     static int rupee = 63;
     static int dirham = 3; // UAE
@@ -12,7 +12,7 @@ public class CurrencyConverter {
     static int dollar = 1;
     static int Rupee = 63;
 
-    public static void printCurrencies() {
+    private void printCurrencies() {
         System.out.println("rupee: " + rupee); 
         System.out.println("dirham: " + dirham); 
         System.out.println("real: " + real); 
@@ -20,11 +20,12 @@ public class CurrencyConverter {
         System.out.println("mexican_peso: " + mexican_peso); 
         System.out.println("_yen: " + _yen); 
         System.out.println("$australian: " + $australian);
-}
+    }
 
     public static void main(String[] args) {
         CurrencyConverter cc = new CurrencyConverter();
         cc.printCurrencies();
                 
     }
+
 }

@@ -1,4 +1,4 @@
-package src.mix;
+package src.more;
 /**
  * Configuration Class
  */
