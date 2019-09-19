@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Array3D",
+            "request": "launch",
+            "mainClass": "src.people.Array3D",
+            "projectName": "Bucket_8a20f12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CurrencyConverter",
+            "request": "launch",
+            "mainClass": "src.more.CurrencyConverter",
+            "projectName": "Bucket_8a20f12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VacationPlanner",
+            "request": "launch",
+            "mainClass": "src.people.VacationPlanner",
+            "projectName": "Bucket_8a20f12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Student",
+            "request": "launch",
+            "mainClass": "src.people.Student",
+            "projectName": "Bucket_8a20f12"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - StaticImportExample",
             "request": "launch",
             "mainClass": "src.more.StaticImportExample"
