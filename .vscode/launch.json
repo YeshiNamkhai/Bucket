@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Stewie2",
+            "request": "launch",
+            "mainClass": "src.more.Stewie2",
+            "projectName": "Bucket_8a20f12"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Mantra",
             "request": "launch",
             "mainClass": "src.more.Mantra",
