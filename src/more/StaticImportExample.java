@@ -11,7 +11,7 @@ public class StaticImportExample {
         
     int min = min(5, 7);
     out.println("min="+min);
-    out.println(Math.PI);
+    out.println(PI);
 
     printConfig();
     }

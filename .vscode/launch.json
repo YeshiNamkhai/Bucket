@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Mantra",
+            "request": "launch",
+            "mainClass": "src.more.Mantra",
+            "projectName": "Bucket_8a20f12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ErrorExample",
+            "request": "launch",
+            "mainClass": "src.more.ErrorExample",
+            "projectName": "Bucket_8a20f12"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Array3D",
             "request": "launch",
             "mainClass": "src.people.Array3D",
