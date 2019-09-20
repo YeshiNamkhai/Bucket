@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BMI",
+            "request": "launch",
+            "mainClass": "src.more.BMI",
+            "projectName": "Bucket_8a20f12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Egg2",
+            "request": "launch",
+            "mainClass": "src.more.Egg2",
+            "projectName": "Bucket_8a20f12"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Stewie2",
             "request": "launch",
             "mainClass": "src.more.Stewie2",
