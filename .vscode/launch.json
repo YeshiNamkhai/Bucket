@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Person",
+            "request": "launch",
+            "mainClass": "src.people.Person",
+            "projectName": "Bucket_8a20f12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "src.main.Main",
+            "projectName": "Bucket_8a20f12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ContactsManager",
+            "request": "launch",
+            "mainClass": "src.manager.ContactsManager",
+            "projectName": "Bucket_8a20f12"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BMI",
             "request": "launch",
             "mainClass": "src.more.BMI",
